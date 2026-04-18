@@ -41,3 +41,5 @@ Tech Used
 - Three.js
 - JavaScript (ES6)
 
+## Live Demo 
+[View Project](https://blusubz.github.io/threejs-experiments/Icosahedron/)
