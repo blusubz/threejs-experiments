@@ -22,3 +22,5 @@ src/ - helpe modules (stars, shaders)
 
 # Live Demo
 [View Project](https://blusubz.github.io/threejs-experiments/Earth/)
+
+Built as part of my Three.js learning journey.
